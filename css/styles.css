@@ -15,4 +15,18 @@ h2 {
   margin-bottom: 10px;
 }
 
+.genero {
+  margin: 80px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: small;
+}
 
+img {
+  width: 200px;
+}
+
+li {
+  width: 200px;;
+}
